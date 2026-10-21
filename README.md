@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Contribute
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
